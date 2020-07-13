@@ -1,4 +1,4 @@
-## Get the inverse of a matrix (if is invertib)
+## Get the inverse of a matrix (if is invertible)
 
 ## Insert a metrix as argument for the function
 
